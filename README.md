@@ -53,12 +53,12 @@ Realproxy.exe -fport 80 -rport 8080 -port 666 -fip 192.168.159.199 -rip 192.168.
 
 ## 演示
 
-![](image\image-20230409191117749.png "fig:")
+![](./image/image-20230409191117749.png "fig:")
 
-![](image\image-20230409191210334.png "fig:")
+![](./image/image-20230409191210334.png "fig:")
 
-![](image\image-20230409191254815.png "fig:")
+![](./image/image-20230409191254815.png "fig:")
 
-![](image\image-20230409191455157.png "fig:")
+![](./image/image-20230409191455157.png "fig:")
 
-![](image\image-20230409191532775.png "fig:")
+![](./image/image-20230409191532775.png "fig:")
