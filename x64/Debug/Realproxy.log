@@ -1,0 +1,12 @@
+﻿  Realproxy.cpp
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(66,18): error C2440: “初始化”: 无法从“const char [27]”转换为“char *”
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(66,18): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(67,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(56,33): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(146,18): error C2440: “初始化”: 无法从“const char [19]”转换为“char *”
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(146,18): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(147,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(135,45): error C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(160,5): error C2660: “CmdParse::get”: 函数不接受 1 个参数
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(31,6): message : 参见“CmdParse::get”的声明
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(160,5): message : 尝试匹配参数列表“(const char [4])”时

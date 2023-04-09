@@ -1,0 +1,21 @@
+﻿Realproxy.cpp(102,33): warning : 'inet_addr' is deprecated: Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(1833,1): message : 'inet_addr' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+Realproxy.cpp(133,37): warning : 'inet_addr' is deprecated: Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(1833,1): message : 'inet_addr' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+Realproxy.cpp(138,37): warning : 'inet_addr' is deprecated: Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(1833,1): message : 'inet_addr' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+Realproxy.cpp(376,25): warning : cast between incompatible calling conventions 'cdecl' and 'stdcall'; calls through this pointer may abort at runtime [-Wcast-calling-convention]
+Realproxy.cpp(128,5): message : consider defining 'tcpsend' with the 'stdcall' calling convention
+Realproxy.cpp(392,37): warning : 'inet_addr' is deprecated: Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(1833,1): message : 'inet_addr' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+Realproxy.cpp(406,37): warning : 'inet_addr' is deprecated: Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings [-Wdeprecated-declarations]
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(1833,1): message : 'inet_addr' has been explicitly marked deprecated here
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winsock2.h(26,56): message : expanded from macro '_WINSOCK_DEPRECATED_BY'
+Realproxy.cpp(446,6): warning : variable 'flag' set but not used [-Wunused-but-set-variable]
+Realproxy.cpp(676,25): warning : cast between incompatible calling conventions 'cdecl' and 'stdcall'; calls through this pointer may abort at runtime [-Wcast-calling-convention]
+Realproxy.cpp(387,5): message : consider defining 'RealorFakeSend' with the 'stdcall' calling convention
+  Realproxy.vcxproj -> C:\Users\as199\source\repos\Realproxy\Release\Realproxy.exe

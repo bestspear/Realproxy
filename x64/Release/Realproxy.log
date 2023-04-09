@@ -1,0 +1,8 @@
+﻿  Realproxy.cpp
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(98,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(89,33): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(129,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(145,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(162,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(216,37): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\as199\source\repos\Realproxy\Realproxy\Realproxy.cpp(230,37): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
